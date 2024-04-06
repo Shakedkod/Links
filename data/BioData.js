@@ -1,20 +1,20 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'nxt lnk',
-        username: 'nxtlnk.vercel.app',
-        url: 'https://nxtlnk.vercel.app',
-        titleImg: true,
+        name: 'Shaked Kod',
+        username: '',
+        url: 'https://links.shakedkod.com',
+        titleImg: false,
         avatar: '/avatar.png',
         nftAvatar: true,
-        description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk. ',
-        descShow: true,
-        subdesc: 'Use this template and deploy on vercel for free',
+        description: '',
+        descShow: false,
+        subdesc: 'Developer, Podcaster, 3D Artist, Blender3D Enthusiast, and more.',
         subdescShow: true,
         newProductUrl: 'https://3dicons.co',
-        newProduct: true,
-        author: 'realvjy',
-        authorURL: 'https://twitter.com/realvjy',
+        newProduct: false,
+        author: 'shakedkod',
+        authorURL: 'https://shakedkod.com',
         footerText: 'made by'
     },
 ];

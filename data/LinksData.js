@@ -3,24 +3,17 @@ const webLinks = [
     // All social profile
     {
         title: 'Twitter',
-        url: 'https://twitter.com/realvjy',
+        url: 'https://twitter.com/m_shakedkod',
         type: 'social',
         icon: '/twitter.svg',
         on: true
     },
     {
         title: 'Instagram',
-        url: 'https://instagram.com/realvjy',
+        url: 'https://instagram.com/shakedkod',
         type: 'social',
         icon: '/insta.svg',
         on: true
-    },
-    {
-        title: 'Dribbble',
-        url: 'https://dribbble.com/realvjy',
-        type: 'social',
-        icon: '/dribbble.svg',
-        on: false
     },
     {
         title: 'Medium',
@@ -31,14 +24,14 @@ const webLinks = [
     },
     {
         title: 'Github',
-        url: 'https://github.com/realvjy',
+        url: 'https://github.com/ShakedKod',
         type: 'social',
         icon: '/github.svg',
         on: true
     },
     {
         title: 'Youtube',
-        url: 'https://youtube.com/realvjy',
+        url: 'https://youtube.com/shakedkod',
         type: 'social',
         icon: '/youtube.svg',
         on: false
@@ -48,7 +41,7 @@ const webLinks = [
         url: 'https://figma.com/@realvjy',
         type: 'social',
         icon: '/figma.svg',
-        on: true
+        on: false
     },
     {
         title: 'Behance',
@@ -59,17 +52,17 @@ const webLinks = [
     },
     {
         title: 'Linkedin',
-        url: 'https://www.linkedin.com/in/realvjy/',
+        url: 'https://www.linkedin.com/in/shakedkod/',
         type: 'social',
         icon: '/linkedin.svg',
-        on: false
+        on: true
     },
     {
         title: 'Mastodon',
         url: 'https://mastodon.online/@realvjy',
         type: 'social',
         icon: '/mastodon.svg',
-        on: true
+        on: false
     },
     {
         title: 'Hive Social',
@@ -84,6 +77,13 @@ const webLinks = [
         type: 'social',
         icon: '/post.svg',
         on: false
+    },
+    {
+        title: 'Youtube',
+        url: 'https://www.youtube.com/@ShakedKod',
+        type: 'social',
+        icon: '/youtube.svg',
+        on: true
     },
     {
         title: 'foundation',
@@ -105,28 +105,6 @@ const webLinks = [
         type: 'nft',
         icon: '/opensea.svg',
         on: false
-    },
-    // Install section
-    {
-        title: 'Use this template',
-        url: 'https://github.com/realvjy/nxt-lnk/generate',
-        type: 'install',
-        icon: '/use.png',
-        on: true
-    },
-    {
-        title: 'Deploy on Vercel',
-        url: 'https://vercel.com/import/git?s=https://github.com/realvjy/nxt-lnk',
-        type: 'install',
-        icon: '/vercel.svg',
-        on: true
-    },
-    {
-        title: 'Documentation',
-        url: 'https://github.com/realvjy/nxt-lnk#nxt-lnk',
-        type: 'install',
-        icon: '/doc.png',
-        on: true
     },
     {
         title: 'Github',
